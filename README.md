@@ -1,2 +1,3 @@
 # Intermediate-Websites
-This repository will contain intermediate level websites which will represent my journey from basics to intermediate
+This repository contains the design for a website for any company or organisation.
+<a href=" https://yash-netankar.github.io/MyCompany.github.io/">Click To See</a>
